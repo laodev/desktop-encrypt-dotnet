@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0n9cKpCvsaPZayGaZ3ua+NBeqyW2qujYhPjzT2SZAy8y/8/D9httuLtw440nbwZf0wBftAkFx6EZMNI3P0yKSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liamo\\Desktop\\development\\Blowfish\\Blowfish\\Blowfish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamo\\.nuget\\packages\\sharpvectors.reloaded\\1.6.0\\sharpvectors.reloaded.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
